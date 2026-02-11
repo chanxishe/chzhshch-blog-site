@@ -9,12 +9,9 @@
 本站将在本人力所能及的前提下长期存在，您也可以通过以下方式表达支持：
 
 - 通过 [Telegram](https://t.me/chzhshchblog) 反馈相关文档错误或疏漏
-- 关注微信公众号<br/>
-  <img src="/static/img/chanxishe.png" width="260" /><br/>
-- <img src="/static/img/fire.png" width="25" height="25" /> [捐赠](https://chzhshch.blog/donate)
 - 点击网站广告
+- [捐赠](https://chzhshch.blog/donate)
 
 ## 本站地址
 
-**主网址**
 https://chzhshch.blog
